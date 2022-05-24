@@ -40,8 +40,6 @@ src="https://img.shields.io/github/followers/kishlayaug15?logo=github&style=for-
 
 <a href="http://www.github.com/kishlayaug15"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kishlayaug15&stroke=ef4444&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ef4444&currStreakLabel=3382ed&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-<a href="http://www.github.com/kishlayaug15"><img src="https://activity-graph.herokuapp.com/graph?username=kishlayaug15&bg_color=22272e&color=ef4444&line=facc15&point=ef4444&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/kishlayaug15" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishlayaug15&langs_count=10&title_color=3382ed&text_color=ef4444&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
