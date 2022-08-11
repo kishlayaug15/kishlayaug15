@@ -7,7 +7,6 @@ DATA SCIENTIST
 B. Tech (Bachelor in Technology) with distinction and years of experience as a data scientist. Proficiency in HTML, CSS, and Python. Beginner in JAVA & JAVASCRIPT. Experienced in manipulating visual hierarchy and automation in prediction algorithms for customer trends.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Kishlay](http://kishlayaug15.github.io)
 * ✉️  You can contact me at [kishlayaug15@gmail.com](mailto:kishlayaug15@gmail.com)
 * 🧠  I'm learning to predict and analyze Credit Card Ratings.
 * 🤝  I'm open to collaborating on Machine Learning and Deep Learning Projects & App Development.
